@@ -69,7 +69,7 @@
                             <configuration>
                                 <skipTests>false</skipTests>
                                 <includes>
-                                    <include>**/CreateNewUser.java</include>
+                                    <include>**/CreateNewUserTests.java</include>
                                 </includes>
                             </configuration>
                         </plugin>
